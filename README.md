@@ -1,6 +1,6 @@
 ### Hi there 👋 I am Vaishnavi Patil
 
-<img align="center" img src="https://github.com/saadeghi/saadeghi/blob/master/dino.gif" width="600" height="200" />
+<img align="center" alt="GIF" img src="https://github.com/saadeghi/saadeghi/blob/master/dino.gif" width="600" height="200" />
 
 ## About me:
 
