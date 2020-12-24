@@ -1,6 +1,6 @@
 ### Hi there 👋 I am Vaishnavi Patil
 
-<img align="center" alt="GIF" img src="https://github.com/saadeghi/saadeghi/blob/master/dino.gif" width="600" height="200" />
+<img align="center" alt="GIF" img src="https://intenseclick.com/wp-content/uploads/2017/06/Play-Chrome-Dinosaur-Game.gif" width="600" height="200" />
 
 ## About me:
 
