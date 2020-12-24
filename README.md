@@ -1,6 +1,6 @@
 ### Hi there 👋 I am Vaishnavi Patil
 
-<img align="center" alt="GIF" img src="https://intenseclick.com/wp-content/uploads/2017/06/Play-Chrome-Dinosaur-Game.gif" width="600" height="200" />
+<img align="center" alt="GIF" img src="https://qph.fs.quoracdn.net/main-qimg-840de57b4f64aee1e72e4fc208ec6607" width="600" height="200" />
 
 ## About me:
 
