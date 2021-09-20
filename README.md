@@ -6,7 +6,7 @@
 ## About me:
 
 - 🔭 I’m currently working on my side projects.
-- 🌱 I’m currently learning ML and Flutter.
+- 🌱 I’m currently learning cloud and improving my core skills.
 - 🤔 I’m looking for help with Data Structures.
 - ⚡ Fun fact: I'm a Epistemophiliac, yes go ahead and Google that :P
 
