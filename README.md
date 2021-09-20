@@ -1,11 +1,6 @@
 ### Hi there 👋 I am Vaishnavi!
-<a href="https://www.linkedin.com/in/vaishnavi-patil-107b28201/">
-  <img align="left" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"  />
-</a>
-<a href="mailto: vaishnavi.patil.294@gmail.com">
-  <img align="left" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
-</a>
-##
+<a href="https://www.linkedin.com/in/vaishnavi-patil-107b28201/" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/kF9HMpz.png" width=40px height=40px title="source: imgur.com" /></a> &nbsp;
+
 <img align="center" alt="GIF" img src="https://qph.fs.quoracdn.net/main-qimg-840de57b4f64aee1e72e4fc208ec6607" width="900" height="200" />
 
 ## About me:
